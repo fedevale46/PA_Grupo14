@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
          echo 'esto es una prueba de Federico González';
          echo 'y adrian escoz';
+		 echo 'y daniel ramirez';
         ?>
     </body>
 </html>
